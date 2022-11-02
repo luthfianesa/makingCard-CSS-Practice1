@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 10px;
+  padding: 30px;
+}
+
+img {
+  border-radius: 25px;
+  width: 620.6px;
+  height: 399.66px;
+  /* padding-top: 4px;
+  padding-bottom: 48px; */
+}
+
+.title {
+  font-size: 27.88px;
+  margin: 10px;
+  margin-top: 16px;
+  margin-left: 0;
+}
+
+.txt {
+  font-size: 16px;
+  margin: 10px;
+  margin-top: 16px;
+  margin-left: 0;
+}
